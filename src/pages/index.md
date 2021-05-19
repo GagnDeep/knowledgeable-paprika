@@ -20,10 +20,11 @@ sections:
     grid_items:
       - type: grid_item
         title: Complex UI development
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          With having years of experience in building complex UI in **React**
+          and **Svelte**. I can build any UI you want whether it's a simple
+          landing page for a complete App.
+
       - type: grid_item
         title: Service Title
         content: >-
