@@ -32,10 +32,9 @@ sections:
           them very efficiently
       - type: grid_item
         title: Building Microservices
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Microservices are a crutial part in today's application development. I
+          can handle building robust and efficient Microservices rapidly
       - type: grid_item
         title: Service title
         content: >-
