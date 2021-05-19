@@ -27,10 +27,9 @@ sections:
 
       - type: grid_item
         title: Managing Database
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Whether its SQL, No-SQL or Graph Database. I can manage that any of
+          them very efficiently
       - type: grid_item
         title: Service Title
         content: >-
