@@ -39,6 +39,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        title: CI/CD
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
