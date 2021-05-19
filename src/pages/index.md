@@ -31,7 +31,7 @@ sections:
           Whether its SQL, No-SQL or Graph Database. I can manage that any of
           them very efficiently
       - type: grid_item
-        title: Service Title
+        title: Building Microservices
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
