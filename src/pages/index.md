@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
   - type: section_grid
-    title: What We Do
+    title: What I can do for you ?
     section_id: services
     subtitle: An optional subtitle of the section
     col_number: two
