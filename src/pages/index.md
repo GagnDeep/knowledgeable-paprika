@@ -14,7 +14,7 @@ sections:
   - type: section_grid
     title: What I can do for you ?
     section_id: services
-    subtitle: An optional subtitle of the section
+    subtitle: My experience
     col_number: two
     is_numbered: true
     grid_items:
