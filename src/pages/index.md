@@ -36,7 +36,6 @@ sections:
           Microservices are a crutial part in today's application development. I
           can handle building robust and efficient Microservices rapidly
       - type: grid_item
-        title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
