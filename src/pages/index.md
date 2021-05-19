@@ -28,8 +28,8 @@ sections:
       - type: grid_item
         title: Managing Database
         content: >
-          Whether its SQL, No-SQL or Graph Database. I can manage that any of
-          them very efficiently
+          Whether its SQL, No-SQL or Graph Database. I can manage them all with
+          high efficiency
       - type: grid_item
         title: Building Microservices
         content: >
