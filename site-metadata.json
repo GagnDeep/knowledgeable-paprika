@@ -21,12 +21,6 @@
             },
             {
                 "type": "action",
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link"
