@@ -26,7 +26,7 @@ sections:
           landing page for a complete App.
 
       - type: grid_item
-        title: Service Title
+        title: Managing Database
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
