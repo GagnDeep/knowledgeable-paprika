@@ -5,9 +5,7 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Gagandeep Singh'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "I am a Web Developer! With experience in all Mordern Forntend Frameworks \U0001F917\n"
     actions:
       - type: action
         label: Let's talk
